@@ -1,14 +1,6 @@
 ### Ola Eu Sou Gilberto Portilho 👩🏽‍💻
 
-<style>
-    .image{
-        text-align:center;
-    }
 
-    .text{
-        text-align:center;
-    }
-    </style>
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertoportilho/)
@@ -32,7 +24,7 @@
 
 
 
-<div class="image">
+<div class="image" style="text-align:center;">
 <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47252lraz9ju54sbx6itga5gnxhw93k1ajvuukf906&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=250>
 
 </div>
